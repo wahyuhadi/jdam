@@ -1,6 +1,6 @@
 # jdam - Structure-aware JSON fuzzing
 
-# Thanks to https://gitlab.com/michenriksen/jdam/
+# Thanks to https://github.com/wahyuhadi/jdam/
 
 ![jdam](.gitlab/jdam.gif)
 
@@ -165,7 +165,7 @@ I would like to give credit and thanks to a couple of other projects:
 [Format String Injection]: https://owasp.org/www-community/attacks/Format_string_attack
 [Local File Inclusion]: https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/11.1-Testing_for_Local_File_Inclusion
 [Integer Overflow]: https://en.wikipedia.org/wiki/Integer_overflow
-[release]: https://gitlab.com/michenriksen/jdam/-/releases
+[release]: https://github.com/wahyuhadi/jdam/-/releases
 [ffuf]: https://github.com/ffuf/ffuf/
 [Go]: https://golang.org/
 [gofuzz]: https://github.com/google/gofuzz

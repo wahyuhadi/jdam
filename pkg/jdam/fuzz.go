@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"time"
 
-	"gitlab.com/michenriksen/jdam/pkg/jdam/mutation"
+	"github.com/wahyuhadi/jdam/pkg/jdam/mutation"
 )
 
 // Fuzzer can mutate random values in maps.

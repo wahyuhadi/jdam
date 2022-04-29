@@ -4,7 +4,7 @@ The following is a set of guidelines for contributing to jdam. These are mostly 
 
 ## How to contribute
 
-When contributing to this project, please first discuss the change you wish to make via [issue](https://gitlab.com/michenriksen/jdam/-/issues/new), or any other method with the members of the project before making a change.
+When contributing to this project, please first discuss the change you wish to make via [issue](https://github.com/wahyuhadi/jdam/-/issues/new), or any other method with the members of the project before making a change.
 
 ## Merge Request Process
 

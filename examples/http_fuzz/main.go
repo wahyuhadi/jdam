@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"time"
 
-	"gitlab.com/michenriksen/jdam/pkg/jdam"
-	"gitlab.com/michenriksen/jdam/pkg/jdam/mutation"
+	"github.com/wahyuhadi/jdam/pkg/jdam"
+	"github.com/wahyuhadi/jdam/pkg/jdam/mutation"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package mutation_test
 import (
 	"testing"
 
-	"gitlab.com/michenriksen/jdam/pkg/jdam/mutation"
+	"github.com/wahyuhadi/jdam/pkg/jdam/mutation"
 )
 
 func TestMutatorsIncludeRandomInt(t *testing.T) {

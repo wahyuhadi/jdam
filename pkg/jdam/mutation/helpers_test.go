@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"time"
 
-	"gitlab.com/michenriksen/jdam/pkg/jdam/mutation"
+	"github.com/wahyuhadi/jdam/pkg/jdam/mutation"
 )
 
 func mutatorIsCompatibleWith(m mutation.Mutator, k reflect.Kind) bool {
